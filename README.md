@@ -1,3 +1,4 @@
+
 # Ex. No.  - SIMULATION OF PRE PROCESSING IN ADDITIVE MANUFACTURING
 ### DATE:11.3.26
 ## AIM:
@@ -45,9 +46,9 @@
 
 ## Output:
 
-![alt text](<Screenshot 2026-03-11 161958.png>) 
-
 ![alt text](<Screenshot 2026-03-11 161914.png>)
+
+![alt text](<Screenshot 2026-03-11 161958.png>) 
 
  ![alt text](<Screenshot 2026-03-11 161923.png>) 
  
