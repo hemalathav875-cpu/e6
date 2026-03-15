@@ -1,5 +1,5 @@
 # Ex. No.  - SIMULATION OF PRE PROCESSING IN ADDITIVE MANUFACTURING
-### DATE: 
+### DATE:11.3.26
 ## AIM:
 ### To simulate the Pre Processing for 3D printing.
 
@@ -45,8 +45,19 @@
 
 ## Output:
 
-### Name:
-### Register Number:
+![alt text](<Screenshot 2026-03-11 161958.png>) 
+
+![alt text](<Screenshot 2026-03-11 161914.png>)
+
+ ![alt text](<Screenshot 2026-03-11 161923.png>) 
+ 
+ ![alt text](<Screenshot 2026-03-11 161934.png>) 
+ 
+ ![alt text](<Screenshot 2026-03-11 161949.png>)
+
+ ![alt text](<Screenshot 2026-03-11 161848.png>)
+### Name:HEMALATHA V
+### Register Number:212225230099
 
 ## Result: 
 ### Thus the simulation on the Preprocessing in additive manufacturing is completed.
